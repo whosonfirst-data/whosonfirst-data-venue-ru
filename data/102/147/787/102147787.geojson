@@ -1,1 +1,67 @@
-{"geometry":{"type":"Point","coordinates":[37.593171,55.897723]},"type":"Feature","bbox":[37.593171,55.897723,37.593171,55.897723],"properties":{"sg:tags":["business-software","enterprise-software"],"geom:longitude":37.593171,"sg:website":"http://www.paragon-software.com","sg:classifiers":[{"category":"Professional","type":"Services","subcategory":"Computer Services"}],"sg:address":"P.O. 6","wof:hierarchy":[{"venue_id":"102147787","country_id":85632685,"region_id":85688085,"neighbourhood_id":85903559}],"iso:country":"RU","wof:geomhash":"63854c94fa86a381e4919211d10c404a","wof:name":"Paragon Software","src:geom":"simplegeo","wof:supersedes":[],"wof:id":"102147787","wof:breaches":[],"geom:area":0.000000,"sg:owner":"simplegeo","sg:postcode":"127644","geom:latitude":55.897723,"sg:href":"http://api.simplegeo.com/1.0/features/SG_44uFBNNEWnV0NjuBfqgFvV_55.897723_37.593171@1308163238.json","sg:city":"Moscow","wof:lastmodified":1440555955,"wof:belongsto":[85632685,85688085,85903559],"wof:placetype":"venue","wof:superseded_by":[],"wof:concordances":{"sg:id":"SG_44uFBNNEWnV0NjuBfqgFvV_55.897723_37.593171@1308163238"},"wof:parent_id":85903559}}
+{
+  "id": "102147787",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.593171,55.897723,37.593171,55.897723",
+    "geom:latitude":55.897723,
+    "geom:longitude":37.593171,
+    "iso:country":"RU",
+    "mz:hierarchy_label":1,
+    "sg:address":"P.O. 6",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:href":"http://api.simplegeo.com/1.0/features/SG_44uFBNNEWnV0NjuBfqgFvV_55.897723_37.593171@1308163238.json",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"127644",
+    "sg:tags":[
+        "business-software",
+        "enterprise-software"
+    ],
+    "sg:website":"http://www.paragon-software.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632685,
+        85688085,
+        85903559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44uFBNNEWnV0NjuBfqgFvV_55.897723_37.593171@1308163238"
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"63854c94fa86a381e4919211d10c404a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632685,
+            "neighbourhood_id":85903559,
+            "region_id":85688085,
+            "venue_id":"102147787"
+        }
+    ],
+    "wof:id":"102147787",
+    "wof:lastmodified":1466313184,
+    "wof:name":"Paragon Software",
+    "wof:parent_id":85903559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.593171,
+    55.897723,
+    37.593171,
+    55.897723
+],
+  "geometry": {"coordinates":[37.593171,55.897723],"type":"Point"}
+}

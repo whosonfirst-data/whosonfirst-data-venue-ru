@@ -1,1 +1,74 @@
-{"geometry":{"type":"Point","coordinates":[30.385246,59.936250]},"type":"Feature","bbox":[30.385246,59.936250,30.385246,59.936250],"properties":{"sg:tags":["pms","property-management-system","hotel-software","online-booking","reservation-management","workorder-management","accomodation-software"],"geom:longitude":30.385246,"sg:website":"http://landlordterminal.com/","sg:classifiers":[{"category":"Professional","type":"Services","subcategory":"Business Services"}],"sg:address":"Novgorodskaya 12A","wof:hierarchy":[{"locality_id":102008123,"venue_id":"102147785","country_id":85632685,"region_id":85688069,"neighbourhood_id":85903325}],"iso:country":"RU","wof:geomhash":"9cc06deec8e57e0cbacf924212e6561d","wof:name":"Landlord Terminal","src:geom":"simplegeo","wof:supersedes":[],"wof:id":"102147785","wof:breaches":[],"geom:area":0.000000,"sg:owner":"simplegeo","sg:postcode":"191011","geom:latitude":59.936250,"sg:href":"http://api.simplegeo.com/1.0/features/SG_3kx1toydHXEkTXjNc9vROi_59.936250_30.385246@1308163238.json","sg:city":"Saint-Petersburg","wof:lastmodified":1440555955,"wof:belongsto":[102008123,85632685,85688069,85903325],"wof:placetype":"venue","wof:superseded_by":[],"wof:concordances":{"sg:id":"SG_3kx1toydHXEkTXjNc9vROi_59.936250_30.385246@1308163238"},"wof:parent_id":85903325}}
+{
+  "id": "102147785",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.385246,59.93625,30.385246,59.93625",
+    "geom:latitude":59.93625,
+    "geom:longitude":30.385246,
+    "iso:country":"RU",
+    "mz:hierarchy_label":1,
+    "sg:address":"Novgorodskaya 12A",
+    "sg:city":"Saint-Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:href":"http://api.simplegeo.com/1.0/features/SG_3kx1toydHXEkTXjNc9vROi_59.936250_30.385246@1308163238.json",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"191011",
+    "sg:tags":[
+        "pms",
+        "property-management-system",
+        "hotel-software",
+        "online-booking",
+        "reservation-management",
+        "workorder-management",
+        "accomodation-software"
+    ],
+    "sg:website":"http://landlordterminal.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102008123,
+        85632685,
+        85688069,
+        85903325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kx1toydHXEkTXjNc9vROi_59.936250_30.385246@1308163238"
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"9cc06deec8e57e0cbacf924212e6561d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632685,
+            "locality_id":102008123,
+            "neighbourhood_id":85903325,
+            "region_id":85688069,
+            "venue_id":"102147785"
+        }
+    ],
+    "wof:id":"102147785",
+    "wof:lastmodified":1466313184,
+    "wof:name":"Landlord Terminal",
+    "wof:parent_id":85903325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.385246,
+    59.93625,
+    30.385246,
+    59.93625
+],
+  "geometry": {"coordinates":[30.385246,59.93625],"type":"Point"}
+}

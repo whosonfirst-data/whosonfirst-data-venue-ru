@@ -1,1 +1,71 @@
-{"geometry":{"type":"Point","coordinates":[30.311872,59.935281]},"type":"Feature","bbox":[30.311872,59.935281,30.311872,59.935281],"properties":{"sg:tags":["messaging","loudtalks","voice","p2p"],"geom:longitude":30.311872,"sg:website":"http://loudtalks.com/","sg:classifiers":[{"category":"Professional","type":"Services","subcategory":"Computer Services"}],"sg:address":"Malaya Morskaya st. 11, office 218","wof:hierarchy":[{"locality_id":102008121,"venue_id":"102147775","country_id":85632685,"region_id":85688069,"neighbourhood_id":85903361}],"iso:country":"RU","wof:geomhash":"d7f0c4a3d44239dab55d79266574b301","wof:name":"Loudtalks","src:geom":"simplegeo","wof:supersedes":[],"wof:id":"102147775","wof:breaches":[],"geom:area":0.000000,"sg:owner":"simplegeo","sg:postcode":"191178","geom:latitude":59.935281,"sg:href":"http://api.simplegeo.com/1.0/features/SG_69IZkoB9j9Meh7ATFPFbAP_59.935281_30.311872@1308163236.json","sg:city":"St Petersburg","wof:lastmodified":1440555955,"wof:belongsto":[102008121,85632685,85688069,85903361],"wof:placetype":"venue","wof:superseded_by":[],"wof:concordances":{"sg:id":"SG_69IZkoB9j9Meh7ATFPFbAP_59.935281_30.311872@1308163236"},"wof:parent_id":85903361}}
+{
+  "id": "102147775",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.311872,59.935281,30.311872,59.935281",
+    "geom:latitude":59.935281,
+    "geom:longitude":30.311872,
+    "iso:country":"RU",
+    "mz:hierarchy_label":1,
+    "sg:address":"Malaya Morskaya st. 11, office 218",
+    "sg:city":"St Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:href":"http://api.simplegeo.com/1.0/features/SG_69IZkoB9j9Meh7ATFPFbAP_59.935281_30.311872@1308163236.json",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"191178",
+    "sg:tags":[
+        "messaging",
+        "loudtalks",
+        "voice",
+        "p2p"
+    ],
+    "sg:website":"http://loudtalks.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102008121,
+        85632685,
+        85688069,
+        85903361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69IZkoB9j9Meh7ATFPFbAP_59.935281_30.311872@1308163236"
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"d7f0c4a3d44239dab55d79266574b301",
+    "wof:hierarchy":[
+        {
+            "country_id":85632685,
+            "locality_id":102008121,
+            "neighbourhood_id":85903361,
+            "region_id":85688069,
+            "venue_id":"102147775"
+        }
+    ],
+    "wof:id":"102147775",
+    "wof:lastmodified":1466313184,
+    "wof:name":"Loudtalks",
+    "wof:parent_id":85903361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.311872,
+    59.935281,
+    30.311872,
+    59.935281
+],
+  "geometry": {"coordinates":[30.311872,59.935281],"type":"Point"}
+}

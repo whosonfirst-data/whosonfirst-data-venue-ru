@@ -1,1 +1,71 @@
-{"geometry":{"type":"Point","coordinates":[37.689967,55.779404]},"type":"Feature","bbox":[37.689967,55.779404,37.689967,55.779404],"properties":{"sg:tags":["collaboration","software","internet","saas"],"geom:longitude":37.689967,"sg:website":"http://www.cinesoft.ru/","sg:classifiers":[{"category":"Professional","type":"Services","subcategory":"Computer Services"}],"sg:address":"Perevedenovsky pereulok 18","wof:hierarchy":[{"locality_id":102003033,"venue_id":"102147779","country_id":85632685,"region_id":85688085,"neighbourhood_id":85903305}],"iso:country":"RU","wof:geomhash":"1b55369110fad02e2bcc16559f388599","wof:name":"CineSoft","src:geom":"simplegeo","wof:supersedes":[],"wof:id":"102147779","wof:breaches":[],"geom:area":0.000000,"sg:owner":"simplegeo","sg:postcode":"105082","geom:latitude":55.779404,"sg:href":"http://api.simplegeo.com/1.0/features/SG_4NMMBAANN2dQYyvzGLfiDB_55.779404_37.689967@1308163241.json","sg:city":"Moscow","wof:lastmodified":1440555955,"wof:belongsto":[102003033,85632685,85688085,85903305],"wof:placetype":"venue","wof:superseded_by":[],"wof:concordances":{"sg:id":"SG_4NMMBAANN2dQYyvzGLfiDB_55.779404_37.689967@1308163241"},"wof:parent_id":85903305}}
+{
+  "id": "102147779",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.689967,55.779404,37.689967,55.779404",
+    "geom:latitude":55.779404,
+    "geom:longitude":37.689967,
+    "iso:country":"RU",
+    "mz:hierarchy_label":1,
+    "sg:address":"Perevedenovsky pereulok 18",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:href":"http://api.simplegeo.com/1.0/features/SG_4NMMBAANN2dQYyvzGLfiDB_55.779404_37.689967@1308163241.json",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"105082",
+    "sg:tags":[
+        "collaboration",
+        "software",
+        "internet",
+        "saas"
+    ],
+    "sg:website":"http://www.cinesoft.ru/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102003033,
+        85632685,
+        85688085,
+        85903305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NMMBAANN2dQYyvzGLfiDB_55.779404_37.689967@1308163241"
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"1b55369110fad02e2bcc16559f388599",
+    "wof:hierarchy":[
+        {
+            "country_id":85632685,
+            "locality_id":102003033,
+            "neighbourhood_id":85903305,
+            "region_id":85688085,
+            "venue_id":"102147779"
+        }
+    ],
+    "wof:id":"102147779",
+    "wof:lastmodified":1466313184,
+    "wof:name":"CineSoft",
+    "wof:parent_id":85903305,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.689967,
+    55.779404,
+    37.689967,
+    55.779404
+],
+  "geometry": {"coordinates":[37.689967,55.779404],"type":"Point"}
+}
